@@ -18,5 +18,5 @@ plugins {
 
 rootProject.name = "spring-webflux-study"
 
-include("practices-completable-future")
 include("examples:async-programming")
+include("practices:completable-future")
