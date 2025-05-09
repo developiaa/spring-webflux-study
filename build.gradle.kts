@@ -41,7 +41,7 @@ val nonSpringProjects = listOf(
 //    "examples:kotlin-coroutine",
 //    "examples:kotlin-coroutine",
     "practices:completable-future",
-//    "practices:reactive-streams",
+    "practices:reactive-streams",
 //    "practices:reactor",
 //    "practices:netty",
 //    "practices:nio-server",
