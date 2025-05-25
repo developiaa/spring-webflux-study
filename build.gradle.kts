@@ -44,7 +44,7 @@ val nonSpringProjects = listOf(
     "practices:reactive-streams",
 //    "practices:reactor",
 //    "practices:netty",
-//    "practices:nio-server",
+    "practices:nio-server",
 //    "practices:selector",
 //    "practices:reactor-pattern",
 //    "practices:proactor-pattern",

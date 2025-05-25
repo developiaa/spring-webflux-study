@@ -21,3 +21,5 @@ rootProject.name = "spring-webflux-study"
 include("examples:async-programming")
 include("practices:completable-future")
 include("practices:reactive-streams")
+
+include("practices:nio-server")
