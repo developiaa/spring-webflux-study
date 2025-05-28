@@ -23,3 +23,4 @@ include("practices:completable-future")
 include("practices:reactive-streams")
 
 include("practices:nio-server")
+include("practices:selector")

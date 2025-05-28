@@ -45,7 +45,7 @@ val nonSpringProjects = listOf(
 //    "practices:reactor",
 //    "practices:netty",
     "practices:nio-server",
-//    "practices:selector",
+    "practices:selector",
 //    "practices:reactor-pattern",
 //    "practices:proactor-pattern",
 ).map { project(it) }
