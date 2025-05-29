@@ -24,3 +24,4 @@ include("practices:reactive-streams")
 
 include("practices:nio-server")
 include("practices:selector")
+include("practices:reactor-pattern")
